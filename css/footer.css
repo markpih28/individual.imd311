@@ -1,0 +1,22 @@
+.inner-footer{
+	margin: 0;
+	padding: 0;
+	background-color; #272727;
+}
+
+.social-links{
+	display: flex;
+}
+
+.social-links ul{
+	display: flex;
+}
+
+.social-items{
+	list-style: none;
+}
+
+.social-items a{
+	padding: 10px 20px;
+	font-size: 30px;
+}
